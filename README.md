@@ -22,13 +22,18 @@
 
 ## 💻 Projeto
 <p>
-    O MyTeach é uma plataforma que disponibiliza cursos onlines na troca de
-moedas digitais – πJM’s – onde o consumidor consegue ter retorno de algumas
-moedas - πJModel Return- para poder investir em outros cursos de nosso site. Ele
-foi pensado em atender a necessidade de atualização das informações para o
-mercado de trabalho ou nos estudos. Seu desenvolvimento contribui no aprendizado
-e na vida econômica de nossos usuários pois comprando ele ganha mais que o
-curso, ganha também moedas, isso tudo sem sair de casa para estudar.<p>
+    Gâteau d’ Amour é uma confeitaria virtual cujo site possibilita a encomenda de
+bolos ou cupcakes, escolhendo dentre modelos pré-cadastrados ou montando seu
+próprio, selecionando fatores como a massa, recheio, cobertura, decoração, cor e
+tamanho. Foi criada uma vez que existe uma escassez nesse mercado, tornando um
+desafio para o consumidor encontrar confeitarias onlines que realizam a entrega do
+produto com qualidade e pontualidade, com tudo que o cliente deseja, nos mínimos
+detalhes. Além de possuir um aplicativo Android que disponibiliza a vitrine da
+confeitaria e as avaliações de todos os produtos feitas por usuários cadastrados,
+tudo isso através de um smartphone. Apesar de já possuir uma loja física, a Gâteau
+d’ Amour quis expandir ainda mais seu alcance, desenvolvendo uma plataforma
+online e solucionando outra problemática ao se responsabilizar pela entrega do
+pedido, no local que o cliente desejar.<p>
 
 <p align="center">
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
