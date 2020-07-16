@@ -1,7 +1,7 @@
 <h1 align="center"><img src="siteGateauDamour/imgs/lg.png " alt="Homepage" width="300"/></h1>
 
 <h4 align="center"> 
-	:heavy_check_mark:  Plataforma de ensino online MyTeach :heavy_check_mark:
+	:heavy_check_mark:  Confeitaria Virtual Gateau D'Amour :heavy_check_mark:
 </h4>
 
 ## 🔖 Algumas Interfaces 
