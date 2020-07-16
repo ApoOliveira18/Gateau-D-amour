@@ -6,13 +6,13 @@
 
 ## 🔖 Algumas Interfaces 
 <p align="center" vetical-aling="top">
- <img  src="siteGateauDamour/imgs/int1.png" alt="Homepage" title="Homepage" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img  src="siteGateauDamour/imgs/int2.png" alt="Moeda PJM" title="Moeda PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src="siteGateauDamour/imgs/Int1.png" alt="Homepage" title="Homepage" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src="siteGateauDamour/imgs/Int2.png" alt="Moeda PJM" title="Moeda PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center" vetical-aling="top"> 
- <img  src="siteGateauDamour/imgs/int3.png" alt="Adicionar Cursos" title="Adicionar Cursos" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img  src="siteGateauDamour/imgs/int4.png" alt="Cursos" title="Cursos" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+ <img  src="siteGateauDamour/imgs/Int3.png" alt="Adicionar Cursos" title="Adicionar Cursos" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="siteGateauDamour/imgs/Int4.png" alt="Cursos" title="Cursos" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
 </p>
 
 ## 💻 Projeto
